@@ -9,10 +9,10 @@ FR: Cette fork n'es pas encore prête. Je suis en ce moment entrain de travaille
 
 ![icon-static](https://github.com/user-attachments/assets/d2b02f5a-298c-45fd-8154-2331f1f21c0f)
 
-## What is this?
-- This is an up-to-date build of Lone DMA EFT/Arena Radar. This is a standalone copy of the software with *No Restrictions*.
+## Qu'est ce que c'est ce projetÉ
+- Ceci est une version mis a jours du radar de Lone DMA EFT/Arena. Ceci est une copie standalone sans restrictions.
 
-## How do I start using this?
+## Comment je fais pour utiliser ce repo?
 1. Télécharge et extracter la solution
 2. Ouvrir la solution avec visual studio
 3. Publier le `eft-dma-radar` ou `arena-dma-radar` projet
