@@ -48,6 +48,6 @@ FR: Cette fork n'es pas encore prête. Je suis en ce moment entrain de travaille
 ## Contact
 - Pour des demandes de renseignements, n`hésiter pas a rejoin notre discord [EFT Educational Resources Discord Server](https://discord.gg/hxUhJHWuap). Veuillez garder les discussion de lone ici [Lone DMA Section](https://discord.com/channels/1218731239599767632/1342207117704036382).
 - Signaler toutes pannes de Lone (après mis a jours,etc.) En ouvrant un [Issue](https://github.com/Lone83427/lone-eft-dma-radar/issues). Veillez donner le plus de détailles possible, Éviter des phrases simple comme "Sa marche pas" seras rejeter
-  - This is **NOT** for feature requests or suggestions.":
+  - Ce n'est **PAS** pour des requêtes ou suggestions.
   - Mal utilisation de la catégorie de problèmes causeras vos privilège a être retirer pour l'utilisateur en question.
   - Si l'utilisation est abuser a plusieurs reprise, l'abiliter de poster les problèmes seras retirer pour tout les utilisateurs.
