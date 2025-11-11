@@ -2,6 +2,7 @@
 A french translation to Lone DMA / Une traduction française de Lone DMA
 
 EN: This fork is not fully ready yet, im currently working on translating everything
+
 FR: Cette fork n'es pas encore prête. Je suis en ce moment entrain de travailler sur la traduction complete
 
 
