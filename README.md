@@ -13,43 +13,41 @@ FR: Cette fork n'es pas encore prête. Je suis en ce moment entrain de travaille
 - This is an up-to-date build of Lone DMA EFT/Arena Radar. This is a standalone copy of the software with *No Restrictions*.
 
 ## How do I start using this?
-1. Download & extract the solution
-2. Open solution with visual studio
-3. Publish the `eft-dma-radar` or `arena-dma-radar` project
-4. If required, locate & move the `libSkiaSharp.dll` & `libHarfBuzzSharp.dll` from the `publish/runtimes` folder into `publish` folder
-5. Run `eft-dma-radar.exe` or `arena-dma-radar.exe` depending on what you've published
+1. Télécharge et extracter la solution
+2. Ouvrir la solution avec visual studio
+3. Publier le `eft-dma-radar` ou `arena-dma-radar` projet
+4. Si requis, localiser & bouger le `libSkiaSharp.dll` & `libHarfBuzzSharp.dll` du dossier `publish/runtimes` dans le dossier `publish`
+5. Éxecuter `eft-dma-radar.exe` or `arena-dma-radar.exe` dependamment de ce que vous avez publier
 
 ## Arena
-- Arena is supported and will be maintained going forward.
+- Arena est supporter and va être mis a jours pour le futur
 
 ## Donations
-- If you would like to donate to x0m:
+- Si vous voulez faire une donation à x0m:
   - Paypal: https://www.paypal.me/eftx0m?locale.x=en_NZ
   - BTC: `1AzMqjpjaN5fyGQgZTByRqA2CzKHQSXkMr`
   - LTC: `LWi2mP6GaDQbhDAzs4swiSEEowETRqCcLZ`
   - ETH: `0x6fe7aee467b63fde7dbbf478dce6a0d7695ae496`
   - USDT: `TYNZr9FL5dVtk1K5D5AwbiWt4UMbu9A7E3`
 
-## Special Thanks
+## Merci spécial à:
 - Lone Survivor
-  - Open sourcing his `lone-dma` project & allowing us to extend its functionality significantly, none of this was possible without him
-   - [cant confirm if your crypto addresses are correct so i don't wanna add them]
-- Mambo
-  - Helping with quite a lot of things & especially stuff I didnt wanna do
+  - Mettre le code open source du project `lone-dma` & permettre de nous avancer avec les fonctionnalité de manière significative, rien ne serais possible sans lui
+   - [Je ne peux pas confirmer les bonnes addresses crypto so je ne veux pas les ajouters.] 
    - Paypal: https://paypal.me/MamboNoob?country.x=CA&locale.x=en_US
    - BTC: `bc1qgw9v6xtwxqhtsuuge720lr5vrhfv596wqml2mk`
 - Marazm
-  - Keeping EFT & Arena maps updated
+  - Garde EFT et Arena mis a jours
    - https://boosty.to/dma_maps/donate
    - USDT: `TWeRAuxsCFa8BHLZZbkz9aUHJcZwnGkiJx`
    - BTC: `bc1q32enxjvfvzp30rpm39uzgwpdxcl57l264reevu`
 - xiaopaoliaofwen
-  - Various contributions & actively maintaining the 'main' fork
+  - Plusieur contribution et maintien le 'main' fork
     - https://buymeacoffee.com/kekmate
 
 ## Contact
-- For any inquiries or assistance, feel free to join the [EFT Educational Resources Discord Server](https://discord.gg/hxUhJHWuap). Please confine discussion to the [Lone DMA Section](https://discord.com/channels/1218731239599767632/1342207117704036382).
-- Report any major outages (after a game update,etc.) by opening an [Issue](https://github.com/Lone83427/lone-eft-dma-radar/issues). Please be *as detailed as possible*, don't just say "it's broke".
+- Pour des demandes de renseignements, n`hésiter pas a rejoin notre discord [EFT Educational Resources Discord Server](https://discord.gg/hxUhJHWuap). Veuillez garder les discussion de lone ici [Lone DMA Section](https://discord.com/channels/1218731239599767632/1342207117704036382).
+- Signaler toutes pannes de Lone (après mis a jours,etc.) En ouvrant un [Issue](https://github.com/Lone83427/lone-eft-dma-radar/issues). Veillez donner le plus de détailles possible, Éviter des phrases simple comme *Sa marche pas*
   - This is **NOT** for feature requests or suggestions.
-  - Misuse of the Issues category will result in the privilege being revoked for that user.
-  - If misuse is rampant, the ability to open Issues may be disabled for all users.
+  - Mal utilisation de la catégorie de problèmes causeras vos privilège a être retirer pour l'utilisateur en question.
+  - Si l'tilisation est abuser a plusieurs reprise, l'abiliter de poster les problèmes seras retirer pour tout les utilisateurs.
