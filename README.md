@@ -5,6 +5,8 @@ EN: This fork is not fully ready yet, im currently working on translating everyt
 
 FR: Cette fork n'es pas encore prête. Je suis en ce moment entrain de travailler sur la traduction complète
 
+readme.md original du repo de lone trouver ici:
+https://github.com/dma-educational-resources/eft-dma-radar
 
 # Lone's EFT DMA Radar
 
