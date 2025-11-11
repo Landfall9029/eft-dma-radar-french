@@ -50,4 +50,4 @@ FR: Cette fork n'es pas encore prête. Je suis en ce moment entrain de travaille
 - Signaler toutes pannes de Lone (après mis a jours,etc.) En ouvrant un [Issue](https://github.com/Lone83427/lone-eft-dma-radar/issues). Veillez donner le plus de détailles possible, Éviter des phrases simple comme "Sa marche pas" seras rejeter
   - This is **NOT** for feature requests or suggestions.":
   - Mal utilisation de la catégorie de problèmes causeras vos privilège a être retirer pour l'utilisateur en question.
-  - Si l'tilisation est abuser a plusieurs reprise, l'abiliter de poster les problèmes seras retirer pour tout les utilisateurs.
+  - Si l'utilisation est abuser a plusieurs reprise, l'abiliter de poster les problèmes seras retirer pour tout les utilisateurs.
